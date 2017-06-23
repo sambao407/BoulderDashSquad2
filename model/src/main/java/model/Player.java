@@ -6,14 +6,10 @@ public class Player extends Entity {
 
     public Player() {
     }
-
     public int getSprite_x() {
         return sprite_x;
     }
-
     public int getSprite_y() {
         return sprite_y;
     }
 }
-
-

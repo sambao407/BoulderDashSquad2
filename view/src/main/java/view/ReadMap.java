@@ -1,19 +1,25 @@
 package view;
 
+import model.Level;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
 public class ReadMap {
 
-    private static final String FILENAME = "C:\\Users\\Kerim\\Desktop\\NewGame\\view\\src\\main\\resources\\test.txt";
+    private static Level level;
+    private String FILENAME;
 
-    public ReadMap () {
+
+    public ReadMap() {
 
     }
 
     public char[][] convertMap() {
 
+        this.level = new Level();
+        FILENAME = level.getLevelName(4);
         FileReader fr = null;
         BufferedReader br = null;
 
@@ -29,18 +35,19 @@ public class ReadMap {
 
             br = new BufferedReader(new FileReader(FILENAME));
 
-            while ((idChar  = br.read()) != -1) {
+            while ((idChar = br.read()) != -1) {
                 char mapChar = (char) idChar;
                 if (idChar != 13 && idChar != 10) {
                     tabChar[width][height] = mapChar;
-                    // System.out.println(" WIDTH : "+width+" HEIGHT : "+height+" CHAR : "+tabChar[width][height]);
                     width++;
-                }
-                else if (idChar == 10 && idChar != 13) {
+                } else if (idChar == 10 && idChar != 13) {
                     width = 1;
                     height++;
                 }
             }
+
+            level.setLevelsize(height);
+            System.out.println(" GET MAX START : "+level.getLevelsize());
             return tabChar;
         } catch (IOException e) {
             e.printStackTrace();
@@ -58,5 +65,8 @@ public class ReadMap {
             }
         }
 
+    }
+    public static int getHeight(){
+        return level.getLevelsize();
     }
 }

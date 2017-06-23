@@ -1,12 +1,10 @@
 package model;
 
 public class Boulder extends Entity {
-    private int sprite_x;
-    private int sprite_y;
+    private int sprite_x = 4;
+    private int sprite_y = 1;
 
-    public Boulder(int sprite_x, int sprite_y) {
-        this.sprite_x = sprite_x;
-        this.sprite_y = sprite_y;
+    public Boulder() {
     }
     public int getSprite_x() {
         return sprite_x;

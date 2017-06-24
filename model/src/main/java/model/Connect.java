@@ -18,7 +18,7 @@ import java.sql.Statement;
 public class Connect {
 
 
-    public static void main (String[] args) {
+    public Connect() {
 
         try {
 
@@ -41,7 +41,7 @@ public class Connect {
 
             //The ResultSet object contains the result of the SQL query
 
-            ResultSet result = state.executeQuery("CALL Call_Niveau5()");
+            ResultSet result = state.executeQuery("CALL Call_Niveau4()");
 
             //We recover the MetaData
 

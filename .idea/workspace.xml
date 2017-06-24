@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="72fc95e6-35fe-4580-847e-e19b1d7b0fad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_6_0_61.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/src/main/java/controller/IController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model/src/main/java/model/IModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/src/main/java/view/IView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/target/classes/model/Connect.class" afterPath="$PROJECT_DIR$/model/target/classes/model/Connect.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.iml" afterPath="$PROJECT_DIR$/main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/model/Connect.java" afterPath="$PROJECT_DIR$/model/src/main/java/model/Connect.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/fr/exia/game/App.java" afterPath="$PROJECT_DIR$/src/main/java/fr/exia/game/App.java" />
-    </list>
+    <list default="true" id="72fc95e6-35fe-4580-847e-e19b1d7b0fad" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/controller/target/" />
     <ignored path="$PROJECT_DIR$/view/target/" />
@@ -676,7 +666,7 @@
       <workItem from="1498304090077" duration="3191000" />
       <workItem from="1498331584060" duration="378000" />
       <workItem from="1498332198028" duration="98000" />
-      <workItem from="1498332376697" duration="453000" />
+      <workItem from="1498332376697" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="Dependence problem solve">
       <created>1498298043771</created>
@@ -696,10 +686,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12012000" />
+    <option name="totallyTimeSpent" value="12298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />

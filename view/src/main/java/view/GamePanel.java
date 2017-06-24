@@ -11,8 +11,8 @@ import java.io.IOException;
 public class GamePanel extends JPanel {
 
     // Chemin de la fiche de sprite
-    private static final String bgroundPATH = "C:\\Users\\MPN\\Desktop\\NewGame\\view\\src\\main\\resources\\bground.png";
-    private static final String playerPATH = "C:\\Users\\MPN\\Desktop\\NewGame\\view\\src\\main\\resources\\player.png";
+    private static final String bgroundPATH = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\bground.png";
+    private static final String playerPATH = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\player.png";
     // Taille en pixels des éléments de la carte
     private int map_x;
     private int map_y;

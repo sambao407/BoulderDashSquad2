@@ -2,7 +2,6 @@ package fr.exia.game;
 
 import model.Connect;
 import view.GameFrame;
-import view.ReadMap;
 
 
 public class App {

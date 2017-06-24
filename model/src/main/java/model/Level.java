@@ -21,22 +21,22 @@ public class Level {
     public String getLevelName(int levelNumb) {
         switch (levelNumb) {
             case 1:
-                LEVELNAME = "C:\\Users\\Samba\\Workspace2\\BoulerDashSquad\\view\\src\\main\\resources\\LVL1.txt";
+                LEVELNAME = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\LVL1.txt";
                 break;
             case 2:
-                LEVELNAME = "C:\\Users\\Samba\\Workspace2\\BoulerDashSquad\\view\\src\\main\\resources\\LVL2.txt";
+                LEVELNAME = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\LVL2.txt";
                 break;
             case 3:
-                LEVELNAME = "C:\\Users\\Samba\\Workspace2\\BoulerDashSquad\\view\\src\\main\\resources\\LVL3.txt";
+                LEVELNAME = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\LVL3.txt";
                 break;
             case 4:
-                LEVELNAME = "C:\\Users\\Samba\\Workspace2\\BoulerDashSquad\\view\\src\\main\\resources\\LVL4.txt";
+                LEVELNAME = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\LVL4.txt";
                 break;
             case 5:
-                LEVELNAME = "C:\\Users\\Samba\\Workspace2\\BoulerDashSquad\\view\\src\\main\\resources\\LVL5.txt";
+                LEVELNAME = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\LVL5.txt";
                 break;
             default:
-                LEVELNAME = "C:\\Users\\Samba\\Workspace2\\BoulerDashSquad\\view\\src\\main\\resources\\LVL1.txt";
+                LEVELNAME = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\LVL1.txt";
                 break;
         }
         return LEVELNAME;

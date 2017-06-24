@@ -7,7 +7,7 @@ package controller;
  * @author Jean-Aymeric DIET jadiet@cesi.fr
  * @version 1.0
  */
-public class ControllerFacade implements IController {
+public class ControllerFacade  {
 
   
 }

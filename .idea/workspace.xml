@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fc95e6-35fe-4580-847e-e19b1d7b0fad" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controller/controller.iml" afterPath="$PROJECT_DIR$/controller/controller.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.iml" afterPath="$PROJECT_DIR$/main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/model.iml" afterPath="$PROJECT_DIR$/model/model.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/model/Level.java" afterPath="$PROJECT_DIR$/model/src/main/java/model/Level.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/src/main/java/view/GamePanel.java" afterPath="$PROJECT_DIR$/view/src/main/java/view/GamePanel.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/view.iml" afterPath="$PROJECT_DIR$/view/view.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -778,12 +770,20 @@
       <option name="presentableId" value="Default" />
       <updated>1498230318331</updated>
       <workItem from="1498230319630" duration="236000" />
-      <workItem from="1498294685324" duration="2722000" />
+      <workItem from="1498294685324" duration="2767000" />
     </task>
+    <task id="LOCAL-00001" summary="Dependence problem solve">
+      <created>1498298043771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498298043771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2958000" />
+    <option name="totallyTimeSpent" value="3003000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -825,6 +825,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dependence problem solve" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependence problem solve" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

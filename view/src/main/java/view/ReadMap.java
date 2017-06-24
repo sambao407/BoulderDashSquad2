@@ -1,11 +1,16 @@
 package view;
 
-import model.Level;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+import model.Level;
+
+
+/**
+ * Created by patricia on 16/06/2017.
+ */
 public class ReadMap {
 
     private static Level level;

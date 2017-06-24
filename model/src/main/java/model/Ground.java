@@ -13,3 +13,8 @@ public class Ground extends Entity {
         return sprite_y;
     }
 }
+
+
+
+
+

@@ -1,7 +1,15 @@
 package model;
 
+
+
+
 /**
- * Created by MPN on 20/06/2017.
+ * <h1>The Class ModelFacade provides a facade of the Model component.</h1>
+ *
+ * @author Jean-Aymeric DIET jadiet@cesi.fr
+ * @version 1.0
  */
-public class modelFacade {
+public class ModelFacade implements IModel {
+
+
 }

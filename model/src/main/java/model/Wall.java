@@ -1,5 +1,8 @@
 package model;
 
+/**
+ * Created by Kerim on 16/06/2017.
+ */
 public class Wall extends Entity {
     private int sprite_x = 1;
     private int sprite_y = 1;

@@ -19,7 +19,7 @@ public class ReadMap {
     public char[][] convertMap() {
 
         this.level = new Level();
-        FILENAME = level.getLevelName(4);
+        FILENAME = level.getLevelName(5);
         FileReader fr = null;
         BufferedReader br = null;
 

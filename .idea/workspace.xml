@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="72fc95e6-35fe-4580-847e-e19b1d7b0fad" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/pom.xml" afterPath="$PROJECT_DIR$/view/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/controller/target/" />
@@ -867,7 +866,7 @@
       <workItem from="1498304090077" duration="3191000" />
       <workItem from="1498331584060" duration="378000" />
       <workItem from="1498332198028" duration="98000" />
-      <workItem from="1498332376697" duration="3334000" />
+      <workItem from="1498332376697" duration="3362000" />
     </task>
     <task id="LOCAL-00001" summary="Dependence problem solve">
       <created>1498298043771</created>
@@ -883,11 +882,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498308566379</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dependence problem">
+      <created>1498336247994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1498336247994</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14893000" />
+    <option name="totallyTimeSpent" value="14921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -932,7 +938,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dependence problem solve" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dependence problem solve" />
+    <MESSAGE value="Dependence problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dependence problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -16,5 +16,6 @@
     <orderEntry type="library" name="Maven: org.opentest4j:opentest4j:1.0.0-M2" level="project" />
     <orderEntry type="library" name="Maven: org.junit.platform:junit-platform-commons:1.0.0-M4" level="project" />
     <orderEntry type="module" module-name="model" />
+    <orderEntry type="library" name="mysql:mysql-connector-java:6.0.61" level="project" />
   </component>
 </module>

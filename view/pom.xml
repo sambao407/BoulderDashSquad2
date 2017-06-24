@@ -12,4 +12,5 @@
             <version>RELEASE</version>
         </dependency>
     </dependencies>
-    </project>
+    <packaging>pom</packaging>
+</project>

@@ -4,20 +4,42 @@ package model;
  * Created by MPN on 21/06/2017.
  */
 public class Level {
+    /**
+     * Level name
+     */
     private String LEVELNAME;
+    /**
+     * Level siza
+     */
     private int levelsize;
 
+    /**
+     * Constructor of class Level
+     */
     public Level() {
     }
 
+    /**
+     * Setter of Levelsize
+     * @param levelsize
+     */
     public void setLevelsize(int levelsize) {
         this.levelsize = levelsize;
     }
 
+    /**
+     * Getter of Levelsize
+     * @return levelsize
+     */
     public int getLevelsize() {
         return levelsize;
     }
 
+    /**
+     * getter of LevelName
+     * @param levelNumb
+     * @return levelNumb
+     */
     public String getLevelName(int levelNumb) {
         switch (levelNumb) {
             case 1:

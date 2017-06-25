@@ -17,7 +17,9 @@ import java.sql.Statement;
  */
 public class Connect {
 
-
+    /** Constructor of class Connect
+     *
+     */
     public Connect() {
 
         try {

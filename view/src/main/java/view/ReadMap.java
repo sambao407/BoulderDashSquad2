@@ -13,14 +13,26 @@ import model.Level;
  */
 public class ReadMap {
 
+    /**
+     * name of our level
+     */
     private static Level level;
+    /**
+     * name of files
+     */
     private String FILENAME;
 
-
+    /**
+     * Generate Map
+     */
     public ReadMap() {
 
     }
 
+    /**
+     * Convert txt map
+     * @return level
+     */
     public char[][] convertMap() {
 
         this.level = new Level();

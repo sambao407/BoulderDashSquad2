@@ -1,7 +1,13 @@
 package controller;
 
+
 /**
- * Created by MPN on 20/06/2017.
+ * <h1>The Class ControllerFacade provides a facade of the Controller component.</h1>
+ *
+ * @author Jean-Aymeric DIET jadiet@cesi.fr
+ * @version 1.0
  */
-public class controllerFacade {
+public class ControllerFacade  {
+
+  
 }

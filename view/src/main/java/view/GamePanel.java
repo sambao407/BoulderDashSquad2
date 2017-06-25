@@ -8,19 +8,26 @@ import java.awt.*;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * Our JPanel for the window map
+ */
 public class GamePanel extends JPanel {
 
-    // Chemin de la fiche de sprite
+    // Path to sprite's card
     private static final String bgroundPATH = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\bground.png";
     private static final String playerPATH = "C:\\Users\\Samba\\git\\BoulderDashSquad2\\view\\src\\main\\resources\\player.png";
-    // Taille en pixels des éléments de la carte
+    // Size in pixels of map elements
     private int map_x;
     private int map_y;
 
-    // Taille en pixels des sprites
+    // Size in pixels of sprites
     private int cell_x;
     private int cell_y;
 
+    /**
+     * Draw the map
+     * @param graphics
+     */
     public void paintComponent(Graphics graphics) {
 
 

@@ -1,21 +1,38 @@
 package view;
 
-import model.Level;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+import model.Level;
+
+
+/**
+ * Created by patricia on 16/06/2017.
+ */
 public class ReadMap {
 
+    /**
+     * name of our level
+     */
     private static Level level;
+    /**
+     * name of files
+     */
     private String FILENAME;
 
-
+    /**
+     * Generate Map
+     */
     public ReadMap() {
 
     }
 
+    /**
+     * Convert txt map
+     * @return level
+     */
     public char[][] convertMap() {
 
         this.level = new Level();
@@ -66,7 +83,13 @@ public class ReadMap {
         }
 
     }
-    public static int getHeight(){
+
+    /**
+     * getter of Height
+     * @return
+     */
+    public static int getHeight()
+    {
         return level.getLevelsize();
     }
 }

@@ -83,7 +83,13 @@ public class ReadMap {
         }
 
     }
-    public static int getHeight(){
+
+    /**
+     * getter of Height
+     * @return
+     */
+    public static int getHeight()
+    {
         return level.getLevelsize();
     }
 }

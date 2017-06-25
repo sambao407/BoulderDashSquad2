@@ -6,7 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>view</artifactId>
-  <name>boulderdash..view</name>
+  <name>boulderdash.view</name>
   <dependencies>
     <dependency>
       <groupId>fr.exia</groupId>

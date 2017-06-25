@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f15fdb90-ace0-49cd-8854-8b60170ead47" name="Default" comment="" />
+    <list default="true" id="f15fdb90-ace0-49cd-8854-8b60170ead47" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Controller/surefire-reports/TEST-Test.Orla.ControllerFacadeTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Controller/surefire-reports/Test.Orla.ControllerFacadeTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Controller/surefire-reports/surefire-reports/TEST-Test.Orla.EntityTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Controller/surefire-reports/surefire-reports/TEST-Test.Orla.LevelTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Controller/surefire-reports/surefire-reports/Test.Orla.EntityTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Controller/surefire-reports/surefire-reports/Test.Orla.LevelTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Model/surefire-reports/TEST-Test.Orla.EntityTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Model/surefire-reports/TEST-Test.Orla.LevelTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Model/surefire-reports/Test.Orla.EntityTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module Model/surefire-reports/Test.Orla.LevelTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module View/surefire-reports/TEST-Test.Orla.ReadMapTest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Module View/surefire-reports/Test.Orla.ReadMapTest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Test/Orla/App.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Test/Orla/ControllerFacade.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Test/Orla/Entity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Test/Orla/Level.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Surefire Report/Test/Orla/ReadMap.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main/src/main/java/main/App.java" afterPath="$PROJECT_DIR$/main/src/main/java/main/App.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/model/target/" />
     <ignored path="$PROJECT_DIR$/view/target/" />
     <ignored path="$PROJECT_DIR$/contract/target/" />
@@ -22,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/view/src/main/java/view/GameFrame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -32,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/main/src/main/java/main/App.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/view/src/main/java/view/ReadMap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+              <caret line="20" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -645,12 +664,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1498396125675</updated>
-      <workItem from="1498396127219" duration="6097000" />
+      <workItem from="1498396127219" duration="6413000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6097000" />
+    <option name="totallyTimeSpent" value="6413000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
@@ -838,7 +857,7 @@
     <entry file="file://$PROJECT_DIR$/view/src/main/java/view/ReadMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <caret line="20" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -854,7 +873,7 @@
     <entry file="file://$PROJECT_DIR$/view/src/main/java/view/GameFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="8" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -870,7 +889,7 @@
     <entry file="file://$PROJECT_DIR$/main/src/main/java/main/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
